@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-011-nuclear-engineering-science-systems-and-society-spring-2020/b750b93ecb6acc8a12127d537c025462_intro.png
+file: /media/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/b750b93ecb6acc8a12127d537c025462_intro.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Communication Guidance
+parent_type: CourseSection
 resourcetype: Image
 title: intro.png
 uid: b750b93e-cb6a-cc8a-1212-7d537c025462

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Communication Guidance
 uid: af9e3069-18b1-4bb5-846c-9eed512d88c9
 ---
