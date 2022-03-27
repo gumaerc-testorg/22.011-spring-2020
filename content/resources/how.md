@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Communication Guidance
 parent_type: CourseSection
+parent_uid: af9e3069-18b1-4bb5-846c-9eed512d88c9
 resourcetype: Image
 title: How.jpg
 uid: e17e23c4-be7f-130e-aa95-d0bbfa5acea0

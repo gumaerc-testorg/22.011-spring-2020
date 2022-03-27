@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Op-Ed Examples
 parent_type: CourseSection
+parent_uid: c6c9e164-7413-2ff1-0047-7449c617ca5e
 resourcetype: Document
 title: Annotated Op-Ed 2
 uid: 0ed21092-21a6-a303-61f8-9d359fc06a87

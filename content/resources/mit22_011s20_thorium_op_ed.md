@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Op-Ed Examples
 parent_type: CourseSection
+parent_uid: c6c9e164-7413-2ff1-0047-7449c617ca5e
 resourcetype: Document
 title: 'Op Ed: Thorium'
 uid: d6edd254-98b4-81a5-9df2-6a612c673f7f
