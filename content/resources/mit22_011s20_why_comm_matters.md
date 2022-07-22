@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/e61bc36145bcd241e54b5a8de6d28527_MIT22_011S20_Why_Comm_Matters.pdf
+file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/e61bc36145bcd241e54b5a8de6d28527_MIT22_011S20_Why_Comm_Matters.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Communication Guidance
 parent_type: CourseSection

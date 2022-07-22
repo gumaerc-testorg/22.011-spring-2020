@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/dfc5cc5e7a23d03bc1674e9423eeaece_MIT22_011S20_NuclearEnergy.pdf
+file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/dfc5cc5e7a23d03bc1674e9423eeaece_MIT22_011S20_NuclearEnergy.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Op-Ed Examples
 parent_type: CourseSection
