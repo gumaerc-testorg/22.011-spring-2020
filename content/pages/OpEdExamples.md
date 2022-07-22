@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Op-Ed Examples
 uid: c6c9e164-7413-2ff1-0047-7449c617ca5e
 ---
