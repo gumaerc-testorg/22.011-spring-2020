@@ -19,7 +19,3 @@ leftnav:
   name: Op-Ed Examples
   url: /pages/OpEdExamples
   weight: 50
-- identifier: 4512f01f-8e14-1eef-f142-5b4907e92dbb
-  name: Download Course Materials
-  url: /pages/download-course-materials
-  weight: 60
