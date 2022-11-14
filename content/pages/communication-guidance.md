@@ -1,23 +1,25 @@
 ---
 content_type: page
+description: This section includes introductory materials about why communication
+  matters and how to communicate effectively
 learning_resource_types: []
 ocw_type: CourseSection
 title: Communication Guidance
 uid: af9e3069-18b1-4bb5-846c-9eed512d88c9
 ---
 
-[Introduction Slides (PDF)]({{< baseurl >}}/resources/mit22_011s20_introduction)
+{{% resource_link c3319828-3dc1-befa-bbda-071a05b4ae77 "Introduction Slides (PDF)" %}}
 
-[![A plot with different sizes of red, green, and blue circles.]({{< resource_file b750b93e-cb6a-cc8a-1212-7d537c025462 >}})]({{< baseurl >}}/resources/mit22_011s20_introduction)
+{{< resource uuid="b750b93e-cb6a-cc8a-1212-7d537c025462" href_uuid="c3319828-3dc1-befa-bbda-071a05b4ae77" >}}
 
 Courtesy of Jacopo Buongiorno. Used with permission.
 
-[Why Communication Matters in Science and Engineering (PDF - 1.3MB)]({{< baseurl >}}/resources/mit22_011s20_why_comm_matters)
+{{% resource_link e61bc361-45bc-d241-e54b-5a8de6d28527 "Why Communication Matters in Science and Engineering (PDF - 1.3MB)" %}}
 
-[![Why.png]({{< resource_file a88a9663-b50c-7abc-73d6-eb2f1510f003 >}})]({{< baseurl >}}/resources/mit22_011s20_why_comm_matters) 
+{{< resource uuid="a88a9663-b50c-7abc-73d6-eb2f1510f003" href_uuid="e61bc361-45bc-d241-e54b-5a8de6d28527" >}} 
 
-[How to Think about Effective Communication (PDF - 1.6MB)]({{< baseurl >}}/resources/mit22_011s20_think_about_comm)
+{{% resource_link 220c866e-3a3a-480a-8562-cf6fcf029ae1 "How to Think about Effective Communication (PDF - 1.6MB)" %}}
 
-[![Four-box flow chart labeled as Who, Why, What, and How.]({{< resource_file 2aba3685-0e2f-be19-ca0c-82a06b768f43 >}})]({{< baseurl >}}/resources/mit22_011s20_think_about_comm)
+{{< resource uuid="2aba3685-0e2f-be19-ca0c-82a06b768f43" href_uuid="220c866e-3a3a-480a-8562-cf6fcf029ae1" >}}
 
 Courtesy of MIT School of Engineering Communication Lab. Used with permission.
