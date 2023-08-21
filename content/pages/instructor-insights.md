@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: 'In this section, Dr. Marina Dang describes various aspects of how she
+  and her colleagues taught 22.011 Nuclear Engineering: Science, Systems and Society.'
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: bfebb164-c18d-c1b8-9c70-7f2a55be3c76
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, the Nuclear Science and Engineering Communication Lab manager, Dr. Marina Dang, describes various aspects of how she and her colleagues taught _22.011 Nuclear Engineering: Science, Systems and Society_.
 
@@ -44,18 +45,17 @@ A lot of courses at MIT already rely on this partnership between technical and c
 
 My recommendations to other educators:
 
-1.  Keep the self-pacing feature of the online component but, right at the beginning of the semester, have each student create their own schedule. Every week or so, encourage students to compare their status to their goals, and update their plan if needed. These were first-year students and this practice would teach them valuable time management skills.
-2.  Make it easy for the lead instructors to track how far along their students are with the online content. Anne and I didn't have access to this information, and I had to regularly email someone else to look that up for us.
-3.  Carve out time during class to discuss some technical content. It doesn't have to be much: quick back-of-the-envelope calculations to build intuition or "fact check" data we find in the news/Op-Eds would have been enough. Or, because this was an introduction into NSE as a department, we could try and get more faculty to come in and demonstrate how basic nuclear physics can be used to understand something about their research.
+1. Keep the self-pacing feature of the online component but, right at the beginning of the semester, have each student create their own schedule. Every week or so, encourage students to compare their status to their goals, and update their plan if needed. These were first-year students and this practice would teach them valuable time management skills.
+2. Make it easy for the lead instructors to track how far along their students are with the online content. Anne and I didn't have access to this information, and I had to regularly email someone else to look that up for us.
+3. Carve out time during class to discuss some technical content. It doesn't have to be much: quick back-of-the-envelope calculations to build intuition or "fact check" data we find in the news/Op-Eds would have been enough. Or, because this was an introduction into NSE as a department, we could try and get more faculty to come in and demonstrate how basic nuclear physics can be used to understand something about their research.
 
 **OCW:** What other changes would you be likely to make to make if running the course again in future years?
 
-**Marina Dang:** I would have the students express early on what medium they want to use for their final presentations (slide presentation, poster, flyer, video...) and I would partner each of them with a Communication Fellow to work toward that specific task. There were also a few things that were on the original syllabus but didn't happen because of the pandemic, including having a science reporter speak with the students, and having a panel of humanities professors share their views on Op-Eds (one is "for" and has written plenty, the other is "against").
+**Marina Dang:** I would have the students express early on what medium they want to use for their final presentations (slide presentation, poster, flyer, video…) and I would partner each of them with a Communication Fellow to work toward that specific task. There were also a few things that were on the original syllabus but didn't happen because of the pandemic, including having a science reporter speak with the students, and having a panel of humanities professors share their views on Op-Eds (one is "for" and has written plenty, the other is "against").
 
 {{< /div-with-class >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -69,8 +69,7 @@ The students' grades were based on the following activities:
 
 Under MIT’s emergency grading policy during the Covid-19 pandemic, passing work for the course (70%–100% based on the elements above) earned a “PE” grade; otherwise a grade of “NE” was issued, appearing only on internal records and not on the student’s external transcript. Also as a result of the pandemic, the Op-Ed presentation was made optional, with full credit being given to all students.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -84,10 +83,11 @@ Unrestricted elective credits ![Unrestricted elective credits](/images/educator/
 
 Every spring semester
 
-Student Information
--------------------
+## Student Information
 
-![Less than 10 students took this course when it was taught in Spring 2020.](/courses/11-438-economic-development-planning-spring-2020/resources/less-than-10)
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -99,17 +99,14 @@ Most of the students had little prior knowledge of nuclear science.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 3 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
 Met 1 time per week for 1 hour per session; 13 sessions total; mandatory attendance
 
-Out of Class
-------------
+### Out of Class
 
 Outside class, students worked their way through 22.011x on the edX platform, and worked on writing and revising the technical note and Op-Ed.
