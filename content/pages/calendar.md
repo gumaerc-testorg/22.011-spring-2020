@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes class topics, instructors and notes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -108,7 +109,7 @@ How to Prepare Technical Note
 AW
 {{< tdclose >}}
 {{< tdopen >}}
-[An example of a technical note is provided]({{< baseurl >}}/pages/OpEdExamples).
+{{% resource_link c6c9e164-7413-2ff1-0047-7449c617ca5e "An example of a technical note is provided" %}}.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +222,7 @@ Draft of written traditional Op-Ed (~750 words) is due.
   
 For class, please have a copy of the Op-Ed draft ready to share for peer review. Be prepared to discuss with other students and instructors.
 
-[Example Op-Eds are provided]({{< baseurl >}}/pages/OpEdExamples).
+{{% resource_link c6c9e164-7413-2ff1-0047-7449c617ca5e "Example Op-Eds are provided" %}}.
 
 
 {{< tdclose >}}

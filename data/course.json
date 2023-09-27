@@ -50,7 +50,12 @@
     "content": "dd2cdd9b-4619-d342-a95a-2f3a5b83348c",
     "website": "22-011-nuclear-engineering-science-systems-and-society-spring-2020"
   },
-  "learning_resource_types": [],
-  "site_uid": "685fae0d-6bac-4a59-9b76-6b077b182f11",
+  "learning_resource_types": [
+    "Instructor Insights",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "76f272c8-6ad8-42b8-94d9-7ec11586055f",
+  "site_short_id": "22.011-spring-2020",
   "title": "Course Metadata"
 }
