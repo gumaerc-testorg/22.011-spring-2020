@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/a88a9663b50c7abc73d6eb2f1510f003_Why.png
+file_size: 97559
 file_type: image/png
 image_metadata:
   caption: ''
