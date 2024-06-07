@@ -9,9 +9,9 @@ ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: bfebb164-c18d-c1b8-9c70-7f2a55be3c76
 ---
-## Instructor Insights
+## Written Interview
 
-Below, the Nuclear Science and Engineering Communication Lab manager, Dr. Marina Dang, describes various aspects of how she and her colleagues taught _22.011 Nuclear Engineering: Science, Systems and Society_.
+Below, the Nuclear Science and Engineering Communication Lab manager, Dr. Marina Dang, describes various aspects of how she and her colleagues taught *22.011 Nuclear Engineering: Science, Systems and Society*.
 
 **OCW:** This course encourages first-year students to focus on science communication right away. Why is this an important focal area for novices in the field?
 
@@ -25,11 +25,11 @@ Below, the Nuclear Science and Engineering Communication Lab manager, Dr. Marin
 
 As for tips: Have plenty of class time for open discussions! This worked out well because we had a small class but even then, we split up the group further later in the semester for more focused discussions depending on students' interests and needs. Together, we explored a lot of audience-centered questions: "Where do you think most people get their information about nuclear energy?" "What would motivate someone to support nuclear power?" "Do people care where their energy is coming from as long as it's cheap?" "How do people assess risk in everyday life?" Feedback is also a critical part of writing an Op-Ed, so we also dedicated class time for students to comment on each other's work and reevaluate their own.
 
-{{< div-with-class "reveal1">}}
+{{< div-with-class "reveal1" >}}
 
-› _Read More/Read Less_
+› *Read More/Read Less*
 
-{{< /div-with-class >}}{{< div-with-class "toggle1">}}
+{{< /div-with-class >}}{{< div-with-class "toggle1" >}}
 
 **OCW:** How did the teaching team work together? What advice do you have for other technical faculty teaming up with science communication experts to support student learning in this domain?
 
@@ -54,6 +54,12 @@ My recommendations to other educators:
 **Marina Dang:** I would have the students express early on what medium they want to use for their final presentations (slide presentation, poster, flyer, video…) and I would partner each of them with a Communication Fellow to work toward that specific task. There were also a few things that were on the original syllabus but didn't happen because of the pandemic, including having a science reporter speak with the students, and having a panel of humanities professors share their views on Op-Eds (one is "for" and has written plenty, the other is "against").
 
 {{< /div-with-class >}}
+
+## Podcast Interview
+
+In the episode of the [Chalk Radio](https://chalk-radio.simplecast.com/) podcast embedded below, Prof. Anne White discusses the pedagogical usefulness of hands-on activities such as building a simple cloud chamber out of easily-acquired materials—and at the other end of the spectrum, she describes her enthusiasm for a much, much larger physics project, the decades-long effort to put nuclear fusion to practical use as a source of clean power for the world. 
+
+{{< simplecast 18b652b9-739a-4544-92c1-7214ae995008 >}}
 
 ## Assessment
 

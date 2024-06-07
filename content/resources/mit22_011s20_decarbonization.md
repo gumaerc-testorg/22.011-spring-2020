@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/e8921694c7d41ccad749f1d86bf12f11_MIT22_011S20_Decarbonization.pdf
+file_size: 48980
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
