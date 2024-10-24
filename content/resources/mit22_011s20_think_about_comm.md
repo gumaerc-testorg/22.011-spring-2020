@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/220c866e3a3a480a8562cf6fcf029ae1_MIT22_011S20_Think_About_Comm.pdf
+file: /ol-ocw-studio-app/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/220c866e3a3a480a8562cf6fcf029ae1_MIT22_011S20_Think_About_Comm.pdf
 file_size: 1719725
 file_type: application/pdf
 learning_resource_types: []
