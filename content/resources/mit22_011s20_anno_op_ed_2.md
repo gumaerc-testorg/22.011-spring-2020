@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/0ed2109221a6a30361f89d359fc06a87_MIT22_011S20_Anno_Op_Ed_2.pdf
+file: /ol-ocw-studio-app/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/0ed2109221a6a30361f89d359fc06a87_MIT22_011S20_Anno_Op_Ed_2.pdf
 file_size: 161572
 file_type: application/pdf
 learning_resource_types: []
