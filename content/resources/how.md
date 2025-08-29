@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/e17e23c4be7f130eaa95d0bbfa5acea0_How.jpg
+file: /ol-ocw-studio-app/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/e17e23c4be7f130eaa95d0bbfa5acea0_How.jpg
 file_size: 156243
 file_type: image/jpeg
 image_metadata:
