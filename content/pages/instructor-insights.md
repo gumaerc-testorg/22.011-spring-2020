@@ -59,9 +59,9 @@ My recommendations to other educators:
 
 In the episode of the [Chalk Radio](https://chalk-radio.simplecast.com/) podcast embedded below, Prof. Anne White discusses the pedagogical usefulness of hands-on activities such as building a simple cloud chamber out of easily-acquired materials—and at the other end of the spectrum, she describes her enthusiasm for a much, much larger physics project, the decades-long effort to put nuclear fusion to practical use as a source of clean power for the world. 
 
-{{< simplecast 18b652b9-739a-4544-92c1-7214ae995008 >}}
+{{< resource uuid="179b8905-fdec-4bd8-b5ab-ade2d0a84f0c" >}}
 
-## Assessment
+### Assessment
 
 ### Grade Breakdown
 
