@@ -10,7 +10,7 @@ uid: 8cc164f2-05db-f7f2-c044-d376773c0551
 Schedule Note
 -------------
 
-The last half of the course, starting with class 9, was conducted online because of the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). 
+The last half of the course, starting with class 9, was conducted online because of the {{% resource_link "3523f4f2-c596-4f8d-b952-5816a69bf6cc" "COVID-19 pandemic" %}}. 
 
 Instructor Key
 --------------
