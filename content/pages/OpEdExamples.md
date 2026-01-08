@@ -11,7 +11,7 @@ uid: c6c9e164-7413-2ff1-0047-7449c617ca5e
 Op-Ed Instructor Examples
 -------------------------
 
-Annotations by Robbie Stewart and Patrick White from the {{% resource_link "676ef83f-20c0-447d-8220-dcd11c9ef8be" "Nuclear Science and Engineering Communication Lab" %}}.
+Annotations by Robbie Stewart and Patrick White from the [Nuclear Science and Engineering Communication Lab](http://mitcommlab.mit.edu/nse/about-the-lab/).
 
 {{% resource_link 0ed21092-21a6-a303-61f8-9d359fc06a87 "The false promise of nuclear power (PDF)" %}}. An Op-Ed from the Boston Globe, annotated to show which parts constitute the lede, nut graf, argument, and call to action.
 
